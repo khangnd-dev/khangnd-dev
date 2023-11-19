@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khang</h1>
 <h3 align="center">Programming enthusiast from Vietnam</h3>
+- 🌱 I’m currently learning **Microservice, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/duykhang010500](https://github.com/duykhang010500)
 
-- 📫 How to reach me **khangnd.dev@gmail.com**
+- 📫 Contact me by email **khangnd.dev@gmail.com**
 
 <p align="left">
 </p>
