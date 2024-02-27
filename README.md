@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Khang</h1>
+<h1 align="center">Hi 👋, I'm Khang Nguyen Duy</h1>
 <h3 align="center">Programming enthusiast from Vietnam</h3>
 
-- 🌱 I’m currently learning **Microservice, AWS**
+- 🌱 I’m currently learning **NextJS, NestJS, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/duykhang010500](https://github.com/duykhang010500)
 
