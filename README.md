@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS, NestJS, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khangnddev](https://github.com/khangnd-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/khangnd-dev](https://github.com/khangnd-dev)
 
 - 📫 Contact me by email **khangnd.dev@gmail.com**
 
